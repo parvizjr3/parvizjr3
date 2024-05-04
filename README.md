@@ -5,4 +5,8 @@ You can check me in instagram via click on this link https://www.instagram.com/w
 Check out the [Bro Codes Website](https://brocode.org/the-code/) for more information about the Bro Code.
 
 ![Your Photo](path/to/your/me.jpg)
+* 💻
+* 🎶
+* 👀👀👀👀👀👀
+* 
 
