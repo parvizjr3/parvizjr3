@@ -16,20 +16,20 @@
     </a>
 
     <!-- Telegram Profile -->
-    <a href="https://t.me/your_telegram_username">
+    <a href="https://t.me/farkhodov_o5">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png" alt="Telegram Profile" width="50" height="50" />
     </a>
 
     <!-- YouTube Profile -->
-    <a href="https://www.youtube.com/your_channel">
+    <a href="https://youtu.be/CgkZ7MvWUAA?si=N4A4lNfrmL2vtegr">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/480px-YouTube_icon_%282013-2017%29.png" alt="YouTube Profile" width="50" height="50" />
     </a>
 
     <!-- Link to Bro Codes Website -->
     <p>Check out the <a href="https://brocode.org/the-code/">Bro Codes Website</a> for more information about the Bro Code.</p>
 
-    <!-- Link to My Profile Photo -->
-    <img src="https://example.com/me.jpg" alt="My Profile Photo" />
+    <!-- My Profile Photo -->
+    <img src="C:\Users\SAM LEADER COMPUTERS\Desktop\my picture" alt="My Profile Photo" />
 
     <ul>
         <li>💻 backend</li>
