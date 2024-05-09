@@ -1,12 +1,40 @@
-HI i am Parviz_jr from Uzbekistan, i am backend developer, and i really like it, furthermore i like to learn languages, now i am learning English💻💻
-You can check me in instagram via click on this link https://www.instagram.com/west_coast_90_hip_hop/, https://instagram.com/farkhodov.o5
-![Bro Codes Website](path/to/your/screenshot.png)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <h1>Parviz_jr's Portfolio</h1>
 
-Check out the [Bro Codes Website](https://brocode.org/the-code/) for more information about the Bro Code.
+    <p>Check out my social media profiles:</p>
 
-![My Profile Photo](https://example.com/me.jpg)
+    <!-- Instagram Profile -->
+    <a href="https://www.instagram.com/west_coast_90_hip_hop/">
+        <img src="https://example.com/instagram_image.jpg" alt="Instagram Profile" />
+    </a>
 
-* 💻 backend 
-* 💻 HTML
-* 📴 developer
+    <!-- Telegram Profile -->
+    <a href="https://t.me/your_telegram_username">
+        <img src="https://example.com/telegram_image.jpg" alt="Telegram Profile" />
+    </a>
 
+    <!-- YouTube Profile -->
+    <a href="https://www.youtube.com/your_channel">
+        <img src="https://example.com/youtube_image.jpg" alt="YouTube Profile" />
+    </a>
+
+    <!-- Link to Bro Codes Website -->
+    <p>Check out the <a href="https://brocode.org/the-code/">Bro Codes Website</a> for more information about the Bro Code.</p>
+
+    <!-- Link to My Profile Photo -->
+    <img src="https://example.com/me.jpg" alt="My Profile Photo" />
+
+    <ul>
+        <li>💻 backend</li>
+        <li>💻 HTML</li>
+        <li>📴 developer</li>
+    </ul>
+</body>
+</html>
